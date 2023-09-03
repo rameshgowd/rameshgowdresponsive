@@ -1,0 +1,288 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" />
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <div class="bg-container">
+        <nav class="navbar navbar-expand-sm navbar-light bg-white ">
+            <div class="navbar-nav nav-items-center">
+                <a class="nav-link active" href="#"> Home </a>
+                <a class="nav-link active" href="#">About </a>
+                <a class="nav-link active" href="#">Home</a>
+                <a class="nav-link active" href="#">Schedules</a>
+                <a class="nav-link active" href="#">Membership</a>
+                <a class="nav-link active" href="#">Pricing</a>
+            </div>
+            <a class="nav-items " href="#">Offers</a>
+            <a class="nav-course " href="#">Courses</a>
+
+        </nav>
+        <div class="container">
+            <div>
+                <img src="https://res.cloudinary.com/gowd/image/upload/v1693630510/Ellipse_53_qrdhlt.png" />
+                <p class="elipse-paragraph">Discover the beauty of the tropics </p>
+                <h1 class="heading">Tropical</h1>
+                <h1 class="heading">Destinations</h1>
+                <h1 class="studen">For Student</h1>
+                <p>Lorem ipsum dolor sit amet consectetur. Sit mattis donec mi bibendum integer <br />
+                    rutrum nisi. A nec nisl vitae </p>
+                <button class="sign-up">SIGN UP</button>
+            </div>
+            <div>
+                <img src="https://res.cloudinary.com/gowd/image/upload/v1693631258/Ellipse_55_lbwmp7.png" />
+
+            </div>
+            <img src=" https://res.cloudinary.com/gowd/image/upload/v1693655461/Group_171_vvbax9.png" class="avatar-image" />
+
+        </div>
+        <div class="cards-container">
+
+            <div>
+                <div class="d-flex flex-row card ">
+
+                    <img src="https://res.cloudinary.com/gowd/image/upload/v1693578001/rbqdqe9jgxeghpqeyhea.png" class="image" />
+
+                    <div>
+                        <h1 class="card-heading">Jenny Wilson</h1>
+                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing...
+
+                        </p>
+                    </div>
+                </div>
+                <div class=" d-flex flex-row card ">
+
+                    <img src="https://res.cloudinary.com/gowd/image/upload/v1693580709/avatar_1_xlactr.png" class="image" />
+
+                    <div>
+                        <h1 class="card-heading">Jenny Wilson</h1>
+                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing...
+
+                        </p>
+                    </div>
+                </div>
+                <div class=" d-flex flex-row card ">
+
+                    <img src="https://res.cloudinary.com/gowd/image/upload/v1693581096/avatar_usxv8z.png" class="image" />
+
+                    <div>
+                        <h1 class="card-heading">Jenny Wilson</h1>
+                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipiscing...
+
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="tropic-adventure">
+                <h1 class="adeventure">Tropical Adventure</h1>
+                <h1 class="for-student">For Students.</h1>
+                <h1 class="for-student">Student Tropical Vacation:Relax and Recharge</h1>
+                <ul>
+                    <li>Lorem ipsum dolor sit amet</li>
+                    <li>Massa quis natoque sit quam</li>
+                    <li>Eros non pellentesque elit </li>
+                    <li>tortor id euismod habitant</li>
+                    <li>Sed suspendisse id in ultrices</li>
+                </ul>
+                <button class="explore-more">Explore More</button>
+            </div>
+
+
+
+        </div>
+        <div class="destination-container">
+            <h1 class="destination-heading">Our Destinations</h1>
+            <div class="d-flex">
+                <div class="destination-card">
+                    <img src="https://res.cloudinary.com/gowd/image/upload/v1693623106/card-image_xzxvwo.png" class="destination-card-image" />
+                    <h1 class="destination-card-heading">Harvard University</h1>
+                    <div class="d-flex flex-row">
+                        <p class="destination-card-text">Cambridge Massachusetts, UK</p>
+
+                        <div>
+                            <img src="https://res.cloudinary.com/gowd/image/upload/v1693623873/Icons_phva8i.png" class="destination-dot-image" />
+                        </div>
+                    </div>
+                </div>
+                <div class="destination-card">
+                    <img src="https://res.cloudinary.com/gowd/image/upload/v1693628530/card-image_1_ycgldv.png" class="destination-card-image" />
+                    <h1 class="destination-card-heading">Oxoford University</h1>
+                    <div class="d-flex flex-row">
+                        <p class="destination-card-text">Oxoford, England</p>
+
+                        <div>
+                            <img src="https://res.cloudinary.com/gowd/image/upload/v1693623873/Icons_phva8i.png" class="destination-dot-image" />
+                        </div>
+                    </div>
+                </div>
+                <div class="destination-card">
+                    <img src="https://res.cloudinary.com/gowd/image/upload/v1693629105/card-image_3_oqsf92.png" class="destination-card-image" />
+                    <h1 class="destination-card-heading">Stanford University</h1>
+                    <div class="d-flex flex-row">
+                        <p class="destination-card-text">Stanford, California</p>
+
+                        <div>
+                            <img src="https://res.cloudinary.com/gowd/image/upload/v1693623873/Icons_phva8i.png" class="destination-dot-image" />
+                        </div>
+                    </div>
+                </div>
+                <div class="destination-card">
+                    <img src="https://res.cloudinary.com/gowd/image/upload/v1693628928/card-image_2_tm2oey.png" class="destination-card-image" />
+                    <h1 class="destination-card-heading">Nanyang Technology</h1>
+                    <div class="d-flex flex-row">
+                        <p class="destination-card-text">Nayang Ave, Singapura</p>
+
+                        <div>
+                            <img src="https://res.cloudinary.com/gowd/image/upload/v1693623873/Icons_phva8i.png" class="destination-dot-image" />
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="bgs-container">
+            <div class="d-flex justify-content-center">
+                <img src="https://res.cloudinary.com/gowd/image/upload/v1693630167/Frame_28_hmx5h2.png" class="arrow-image" />
+            </div>
+            <div class="elipse-text-image-container">
+                <div>
+                    <div class="elipse-subtract">
+                        <img src="https://res.cloudinary.com/gowd/image/upload/v1693630510/Ellipse_53_qrdhlt.png" class="elipse-image" />
+                        <div>
+                            <img src="https://res.cloudinary.com/gowd/image/upload/v1693630605/Subtract_qz7quy.png" />
+                        </div>
+                    </div>
+                    <p class="elipse-paragraph">Get 20% off for student</p>
+                    <div class="elipse">
+                        <img src="https://res.cloudinary.com/gowd/image/upload/v1693631258/Ellipse_55_lbwmp7.png" />
+                    </div>
+
+                    <h1 class="heading">Student Discounts avaliable.</h1>
+                    <h1 class="sun-heading">Get ready for some fun in the sun!</h1>
+                    <ul>
+                        <li>Lorem ipsum dolor sit amet</li>
+                        <li>Massa quis natoque sit quam</li>
+                        <li>Eros non pellentesque elit </li>
+                        <li>tortor id euismod habitant</li>
+                        <li>Sed suspendisse id in ultrices</li>
+                    </ul>
+                    <button class="explore-more">Explore More</button>
+                    <div class="elipse-icon">
+                        <img src="https://res.cloudinary.com/gowd/image/upload/v1693632003/Ellipse_54_puwmrv.png" />
+                    </div>
+                </div>
+                <img src="https://res.cloudinary.com/gowd/image/upload/v1693632335/Mask_group_kscsm7.png" class="mask-group-image" />
+
+            </div>
+            <div class="book-now-image-container">
+
+                <img src="https://res.cloudinary.com/gowd/image/upload/v1693638476/Group_167_xwip74.png" width="30%" />
+
+                <div>
+                    <img src="https://res.cloudinary.com/gowd/image/upload/v1693638602/Subtract_1_dwdzi7.png" width="50%" />
+                </div>
+                <div class="book-now-container">
+                    <h1 class="heading">Book Now</h1>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipising elit</p>
+                    <div class="input-container">
+                        <label class="label">CITY </label>
+                        <input type="serch" placeholder="Placeholder" class="input-city-element" />
+                    </div>
+                    <div class="input-label-container">
+                        <div class="input-container">
+                            <label class="label">ARRIVAL </label>
+                            <input type="serch" placeholder="10 October" class="input-element" />
+                        </div>
+                        <div class="input-container">
+                            <label class="label">DEPARTURE </label>
+                            <input type="serch" placeholder="11 October" class="input-element" />
+
+
+                        </div>
+                    </div>
+                    <div class="input-label-container">
+                        <div class="input-container">
+                            <label class="label">STAR </label>
+                            <input type="serch" placeholder="-    4   +" class="input-element" />
+                        </div>
+                        <div class="input-container">
+                            <label class="label">ROOM </label>
+                            <input type="serch" placeholder="-    1    +" class="input-element" />
+
+
+                        </div>
+                    </div>
+                    <button class="book-now">BOOK NOW</button>
+
+                </div>
+            </div>
+            <div class="Testimonials-container">
+
+                <h1 class="Testimonials-heading">Testimonials</h1>
+                <div class="Testimonials-cards-container">
+                    <div class="Testimonials-card-container">
+                        <img src="https://res.cloudinary.com/gowd/image/upload/v1693642023/Avatar_1_e4iogo.png" />
+                        <h1 class="Testimonials-card-heading">Corey Korsgaard</h1>
+                        <div class="hr-card">
+                            <hr class="hr" />
+                        </div>
+
+
+                        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+
+
+                    </div>
+                    <div class="Testimonials-card-container">
+                        <img src="https://res.cloudinary.com/gowd/image/upload/v1693643292/Avatar_2_avfcps.png" />
+                        <h1 class="Testimonials-card-heading">Jakob Aminoff</h1>
+                        <div class="hr-card">
+                            <hr class="hr" />
+                        </div>
+
+                        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+
+
+                    </div>
+                    <div class="Testimonials-card-container">
+                        <img src="https://res.cloudinary.com/gowd/image/upload/v1693643419/Avatar_3_a99yyi.png" />
+                        <h1 class="Testimonials-card-heading">Carla Press</h1>
+                        <div class="hr-card">
+                            <hr class="hr" />
+                        </div>
+
+                        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+
+
+                    </div>
+                </div>
+            </div>
+            <h1 class="student-special-heading">Student Special: Discounted rates<br />
+                on tropical getaways!</h1>
+            <p class="text-things">Let’s embody your beautiful ideas together, simplify <br />
+                the way you visualize your next big things.</p>
+            <div class="text-paragraph">
+                <p>Privacy Policy</p>
+                <p>Terms of Use</p>
+                <p>Sales and Refunds</p>
+                <p>Legal</p>
+                <p>About</p>
+                <p>Schedules</p>
+                <p>Pricing</p>
+                <p>Membership</p>
+                <p>Joins</p>
+
+            </div>
+
+
+
+        </div>
+    </div>
+
+
+</body>
+
+</html>
